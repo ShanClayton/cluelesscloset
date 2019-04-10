@@ -1,2 +1,2 @@
 # cluelesscloset
-fashion application made with Angular
+fashion application made with vuejs
